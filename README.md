@@ -16,7 +16,8 @@ A curated collection of essential PDFs for quick reference and technical revisio
 - `ML.pdf` — Key ML algorithms, workflows, and concepts.
 
 ### 🧠 Artificial Intelligence
-- `Artificial Intelligence- A Modern Approach, Global Edition, 4ed_compressed.pdf` — Comprehensive reference textbook.
+- `Artificial Intelligence- A Modern Approach, Global Edition, 4ed_compressed.pdf`
+— Comprehensive reference textbook.
 
 ### ⚙️ Automation
 - `Automation.pdf` — Tools and Techniques for automating Concepts.
